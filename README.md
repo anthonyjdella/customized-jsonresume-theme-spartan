@@ -1,3 +1,10 @@
+# Customized JSON Resume Theme: Spartan
+
+🖼️ This is a slightly tweaked version of the [Spartan theme](https://github.com/phoinixi/jsonresume-theme-spartan). Tweaked to fit my design preferences. Published on NPM and GitHub Registry.
+
+<details>
+  <summary>Click to expand README.md of the source repository!</summary>
+
 # Spartan theme for jsonresume [![npm version](https://badge.fury.io/js/jsonresume-theme-spartan.svg)](http://badge.fury.io/js/jsonresume-theme-spartan)
 
 This is a theme for JSON Resume. It is available via npm:
